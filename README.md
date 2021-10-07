@@ -1,7 +1,8 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
 <h3> Who am I </h3>
 
-<img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin">
+<!--
+<img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
 - 🎇 I'm currently learning `C#`, `MySQL`, `Python`.
 - 🖥 I majored in Computer Information.
