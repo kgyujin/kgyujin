@@ -1,6 +1,8 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
 <h3> Who am I </h3>
 
+<img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin">
+
 - 🎇 I'm currently learning `C#`, `MySQL`, `Python`.
 - 🖥 I majored in Computer Information.
 - ❤ I love computer! I keep trying to learn.
@@ -21,8 +23,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/XOG9)
 </a>
 </div>
-  
-  
+
+
+
 <!-- productive-box 커밋시각 통계 노출 // XOG9 token = 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 // https://gist.github.com/XOG9/e96f546de890f5fc03d3312fa74bb2ce -->
 
 <!-- github-stats-box GitHub Status 노출 // github status = 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 // https://gist.github.com/XOG9/ec70294408866541e32ef2084826290f -->
