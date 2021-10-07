@@ -1,7 +1,7 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
 <h3> Who am I </h3>
 
-- 🎇 I'm currently learning `C#`, `SQL`, `Python`.
+- 🎇 I'm currently learning `C#`, `MySQL`, `Python`.
 - 🖥 I majored in Computer Information.
 - ❤ I love computer! I keep trying to learn.
 
