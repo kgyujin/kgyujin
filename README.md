@@ -1,8 +1,11 @@
-<!-- 프로필 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=b22626&height=150&section=header&text=XOG9&fontSize=55)
+<div align=center><h1>🧇 Welcome to XOG9 World 🧇</h1></div>
 
 <!-- anuraghazra/github-readme-stats 스텟 표시 // Most used Languages -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOG9&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOG9)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOG9&show_icons=true&theme=graywhite)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XOG9)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+</div>
 
 <hr>
 
