@@ -1,5 +1,6 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
-### Who am I
+<h3> Who am I </h3>
+
 - 🎇 I'm currently learning `C#`, `SQL`, `Python`
 - 🖥 I majored in Computer Information
 
