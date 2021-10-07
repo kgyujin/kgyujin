@@ -8,7 +8,7 @@
 
 <!-- Shields.io 뱃지 // 방문자 카운트-->
 <div align=center>
-<img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k_gyujin@daum.net"/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/XOG9)
 </a>
