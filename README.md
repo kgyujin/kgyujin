@@ -1,8 +1,9 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
 <h3> Who am I </h3>
 
-- 🎇 I'm currently learning `C#`, `SQL`, `Python`
-- 🖥 I majored in Computer Information
+- 🎇 I'm currently learning `C#`, `SQL`, `Python`.
+- 🖥 I majored in Computer Information.
+- ❤ I love computer! I keep trying to learn.
 
 <!-- anuraghazra/github-readme-stats 스텟 표시 // Most used Languages -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XOG9&show_icons=true&theme=graywhite)
