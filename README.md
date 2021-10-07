@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- github-stats-box GitHub Status 노출 // github status = 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 // https://gist.github.com/XOG9/ec70294408866541e32ef2084826290f ->>
 
 <!-- 방문자 카운트 -->
-https://github.com/gjbae1212/hit-counter
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
