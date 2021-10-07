@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 https://github.com/gjbae1212/hit-counter
 
-<img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/>
 
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 
