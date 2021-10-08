@@ -5,7 +5,7 @@
 <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
 - 🎇 I'm currently learning `C#`, `MySQL`, `Python`.
-- 🖥 I majored in Computer Information.
+- 🖥 I majoring in Computer Information.
 - ❤ I love computer! I keep trying to learn.
 
 <!-- anuraghazra/github-readme-stats 스텟 표시 // Most used Languages -->
