@@ -27,5 +27,3 @@
 
 
 <!-- productive-box 커밋시각 통계 노출 // XOG9 token = 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 // https://gist.github.com/XOG9/e96f546de890f5fc03d3312fa74bb2ce -->
-
-<!-- github-stats-box GitHub Status 노출 // github status = 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 // https://gist.github.com/XOG9/ec70294408866541e32ef2084826290f -->
