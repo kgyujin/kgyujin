@@ -4,7 +4,7 @@
 <!--
 <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
-[🎇] I'm currently learning `C#`, `MySQL`, `Python`.<div>
+[🎇] I'm learning `C#`, `MySQL`, `Python`.<div>
 [❤] I love computer! so I keep trying to learn.
 
 <!-- anuraghazra/github-readme-stats 스텟 표시 // Most used Languages -->
