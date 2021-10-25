@@ -1,5 +1,5 @@
 <div align=center><h2>🧇 Welcome to XOG9 World 🧇</h2></div>
-<h3> Who am I </h3>
+<h3> It`s me! </h3>
 
 <!--
 <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
