@@ -23,7 +23,7 @@
 <!-- Visual Studio Code --><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp
 
 <div align=center><h3>🧇 XOG9 🧇<h3></div>
-<!--GitHub Page --><img src="https://img.shields.io/badge/GitHub Page-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://xog9.github.io"/></a>&nbsp
+<!--GitHub Page --><a href="https://xog9.github.io/"><img src="https://img.shields.io/badge/GitHub Page-181717?style=flat-square&logo=GitHub&logoColor=white&https://xog9.github.io/"/></a>&nbsp
 <!-- Mail --><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k_gyujin@daum.net"/></a>&nbsp
 
 <hr>
