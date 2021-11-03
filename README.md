@@ -20,7 +20,6 @@
 
 <!-- Adobe Illustrator --><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>&nbsp
 <!-- Adobe Photoshop --><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp
-<!-- Notion --><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
 <!-- Unity --><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
 <!-- Visual Studio --><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>&nbsp
 <!-- Visual Studio Code --><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp
@@ -28,6 +27,7 @@
 <div align=center><h3>🧇 kgyujin 🧇<h3></div>
 <!--GitHub Page --><a href="https://kgyujin.github.io/"><img src="https://img.shields.io/badge/GitHub Page-181717?style=flat-square&logo=GitHub&logoColor=white&https://kgyujin.github.io/"/></a>&nbsp
 <!-- Mail --><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k_gyujin@daum.net"/></a>&nbsp
+<!-- Notion --><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&https://luxurious-bougon-977.notion.site/GitHub-for-kgyujin-bd162d8392f24107b05fa0dc1af1edb3/"/>&nbsp
 
 <hr>
 
