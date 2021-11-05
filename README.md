@@ -27,7 +27,7 @@
 <div align=center><h3>🧇 kgyujin 🧇<h3></div>
 <!--GitHub Page --><a href="https://kgyujin.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Page-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 <!-- Mail --><a href="mailto:k_gyujin@daum.net" target="_blank"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-<!-- Notion --><a href="https://luxurious-bougon-977.notion.site/GitHub-for-kgyujin-bd162d8392f24107b05fa0dc1af1edb3" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+<!-- Notion --><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 
 <hr>
 
