@@ -43,6 +43,7 @@
  -->
 <!-- 백준 카드
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin)](https://solved.ac/k_gyujin)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kgyujin)
 </a>
