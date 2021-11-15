@@ -37,13 +37,12 @@
 
 <!-- <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
-<!-- anuraghazra/github-readme-stats 스텟 표시 // Most used Languages -->
+<!-- anuraghazra/github-readme-stats 스텟 표시 // 백준 카드 -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgyujin&show_icons=true&theme=graywhite)
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin">
+<!-- Most used Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgyujin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
-<!-- 백준 카드
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin)](https://solved.ac/k_gyujin)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kgyujin)
 </a>
