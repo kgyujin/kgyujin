@@ -38,7 +38,7 @@
 <!-- <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
 <!-- anuraghazra/github-readme-stats 스텟 표시 // 백준 카드 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgyujin&show_icons=true&theme=graywhite)
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=kgyujin&show_icons=true&theme=graywhite">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin">
 <!-- Most used Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgyujin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
