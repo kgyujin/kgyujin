@@ -33,7 +33,8 @@
 <!-- Notion --><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 <!-- Velog --><a href="https://velog.io/@kgyujin" target="_blank"><img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kgyujin)
+<!--   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B22626&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kgyujin)
+   -->
   
 <!-- <img align='right' src="htttp://mazassumnida.wtf/api/v2/generate_badge?boj=k_gyujin"> -->
 
