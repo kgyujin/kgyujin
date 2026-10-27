@@ -10,7 +10,7 @@
 <g clip-path="url(#c2)"><text x="28" y="148"><tspan fill="#22c55e">$</tspan> <tspan fill="#e5e7eb">cat motto.txt</tspan></text></g>
 <text x="28" y="180" fill="#f472b6" font-weight="400" opacity="0">AI makes the call. Code keeps the rules.<set attributeName="opacity" to="1" begin="2.81s" fill="freeze"/></text>
 <g clip-path="url(#c4)"><text x="28" y="212"><tspan fill="#22c55e">$</tspan> <tspan fill="#e5e7eb">ls projects/ | wc -l</tspan></text></g>
-<text x="28" y="244" fill="#93c5fd" font-weight="400" opacity="0">12  # agents, LLM services, automation tools<set attributeName="opacity" to="1" begin="4.96s" fill="freeze"/></text>
+<text x="28" y="244" fill="#93c5fd" font-weight="400" opacity="0">14  # agents, LLM services, automation tools<set attributeName="opacity" to="1" begin="4.96s" fill="freeze"/></text>
 <g opacity="0"><set attributeName="opacity" to="1" begin="5.46s" fill="freeze"/><text x="28" y="276" fill="#22c55e">$</text><rect x="49" y="262" width="10" height="17" fill="#e5e7eb"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
 </g>
 </svg>

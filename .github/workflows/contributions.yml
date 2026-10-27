@@ -1,0 +1,57 @@
+name: Contribution graphics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      # Galaga: daily contribution grid as a game
+      - name: Generate galaga SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "galaga"
+
+      - name: Recolor galaga to mint and swap the ship
+        run: |
+          sed -i -E 's/#0e4429/#0b3d33/Ig; s/#006d32/#0f6b58/Ig; s/#26a641/#2bbf98/Ig; s/#39d353/#5ff5c8/Ig' dist/*-dark.svg
+          python3 - <<'PY'
+          import base64, glob, re
+          uri = "data:image/png;base64," + base64.b64encode(open("assets/galaga-ship.png", "rb").read()).decode()
+          for f in glob.glob("dist/*.svg"):
+              s = open(f).read()
+              s = re.sub(r'(<image x="-16" y="-35" width="32" height="35" href=")[^"]*"', lambda m: m.group(1) + uri + '"', s, count=1)
+              open(f, "w").write(s)
+          PY
+
+      # Skyline: weekly contributions as an ASCII city
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Generate skyline SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run github.com/pinkpixel-dev/skyline@latest -theme ice -svg dist/skyline.svg "${{ github.repository_owner }}"
+
+      - name: Recolor skyline to mint
+        run: |
+          sed -i -E 's/#0c0f14/#0a1210/Ig; s/#34404f/#2e4a44/Ig; s/#cfe6ff/#c9fff0/Ig; s/#9ccfff/#7ff5d3/Ig; s/#f2fbff/#effffa/Ig; s/#3d8bff/#2bbf98/Ig; s/#6b7d93/#5f8c80/Ig; s/#e9f3fc/#e6fbf4/Ig; s/#131922/#101a17/Ig; s/#18202b/#14211d/Ig; s/#212d3c/#1d2f2a/Ig; s/#1f4e99/#0f6b58/Ig; s/#7fe3ff/#5ff5c8/Ig' dist/skyline.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

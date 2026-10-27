@@ -21,11 +21,13 @@
 
 | Project | What it does | Status |
 | :--- | :--- | :--- |
-| **SeulSeul** | Turns Slack announcements into personal checklists, with deadlines double-checked in code | <img src="assets/status/live.svg" width="150" alt="Live on Slack"> |
+| **[SeulSeul](https://github.com/SKALA4th-Side-SeulSeul/SeulSeul-skala)** | Turns Slack announcements into personal checklists. The AI picks a deadline, code recomputes it from the source sentence, and unclear cases go to an admin console | <img src="assets/status/live.svg" width="150" alt="Live on Slack"> |
 | **Solar Ops** | Solar power forecasts, model retraining, and rollback dashboard | <img src="assets/status/verified.svg" width="150" alt="31 models verified"> |
 | **Dementia Screening App** | Supports early dementia screening through voice analysis | <img src="assets/status/award.svg" width="150" alt="Award winner"> |
-| **Last Cargo** | Card game where you haggle with an AI merchant on a local model | <img src="assets/status/solo.svg" width="150" alt="Solo project"> |
-| **CBAM Supplier Carbon Data Hub** | Supplier management APIs for a carbon data review workflow | <img src="assets/status/team.svg" width="150" alt="Team project"> |
+| **[Last Cargo](https://github.com/kgyujin/skala-ai-service/tree/perf/last-cargo-latency)** | Card game where you haggle with an AI merchant on a local 2B model. Schema-bound output and a server re-check raised valid replies from 12 to 18 of 20 test scenarios | <img src="assets/status/passed.svg" width="150" alt="18 of 20 scenarios passed"> |
+| **[CBAM Supplier Carbon Data Hub](https://github.com/SKALA4th-team3/skala-cbam-ct)** | Supplier management APIs for carbon data review. Fixed confirm requests that failed when the DB adapter dropped the emission factor year | <img src="assets/status/team.svg" width="150" alt="Team project"> |
+| **National Institute of Ecology Data System** | Data entry, search, and Excel export for nature survey records | <img src="assets/status/client.svg" width="150" alt="Client work"> |
+| **Daegu Children's World Portal** | Boards and external API integration. Blocked secret posts that opened by direct URL ([write-up](https://kgyujin.tistory.com/111)) | <img src="assets/status/client.svg" width="150" alt="Client work"> |
 | **[Incident Response AI Agent](https://github.com/kgyujin/skala-ai-service)** | Finds matching runbooks and checks the numbers in each answer | <a href="https://github.com/kgyujin/skala-ai-service"><img src="assets/status/repo.svg" width="150" alt="Public repo"></a> |
 | **[job-application-tailor-skill](https://github.com/kgyujin/job-application-tailor-skill)** | Agent skill that tailors application documents to each job posting | <a href="https://github.com/kgyujin/job-application-tailor-skill"><img src="assets/status/repo.svg" width="150" alt="Public repo"></a> |
 | **[clean-ppt-skill](https://github.com/kgyujin/clean-ppt-skill)** | Agent skill for clean, editable Korean slide decks | <a href="https://github.com/kgyujin/clean-ppt-skill"><img src="assets/status/repo.svg" width="150" alt="Public repo"></a> |
@@ -36,14 +38,20 @@
 
 ### 🏆 Awards
 
-| Year | Award | Event |
-| :---: | :--- | :--- |
-| 2024 | **Excellence Award**<br><sub>Jeju Special Self-Governing Province Governor's Award</sub> | 11th Korea SW Convergence Hackathon<br><sub>Hosted by the Ministry of Science and ICT</sub> |
+| Year | Award | Event | Project |
+| :---: | :--- | :--- | :--- |
+| 2024 | **Excellence Award**<br><sub>Jeju Special Self-Governing Province Governor's Award</sub> | 11th Korea SW Convergence Hackathon<br><sub>Hosted by the Ministry of Science and ICT</sub> | Voice-based dementia screening app<br><sub>MFCC voice features with a pretrained model to flag cognitive decline, plus Korean speech-to-text to count words in an animal-naming test</sub> |
 
-### 📈 Contributions
+### 🌃 Activity
 
 <p align="center">
-  <img src="metrics.isocalendar.fullyear.svg" width="100%" alt="Contribution calendar">
+  <img src="https://raw.githubusercontent.com/kgyujin/kgyujin/output/skyline.svg" width="100%" alt="Contribution skyline">
+  <br><sub>Each building is a week, and every lit window is a day with commits.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kgyujin/kgyujin/output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga contribution graph">
+  <br><sub>Same year, day by day. Watch the ship shoot them down.</sub>
 </p>
 
 <p align="center">
