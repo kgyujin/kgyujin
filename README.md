@@ -46,12 +46,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kgyujin/kgyujin/output/skyline.svg" width="100%" alt="Contribution skyline">
-  <br><sub>Each building is a week, and every lit window is a day with commits.</sub>
+  <!-- <br><sub>Each building is a week, and every lit window is a day with commits.</sub> -->
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kgyujin/kgyujin/output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga contribution graph">
-  <br><sub>Same year, day by day. Watch the ship shoot them down.</sub>
+  <!-- <br><sub>Same year, day by day. Watch the ship shoot them down.</sub> -->
 </p>
 
 <p align="center">
